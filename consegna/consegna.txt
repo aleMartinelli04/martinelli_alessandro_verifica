@@ -1,0 +1,28 @@
+Dato lo schema E/R in allegato:
+
+1) Scrivere un foglio chiamato DB.sql in cui verranno salvati tutti i procedimenti necessari che, passando da uno schema
+logico, porteranno alla creazione su PHPMyAdmin di un database funzionante.
+
+2) Popolare il database con almeno due record per ognuna delle tabelle con dati a scelta ma coerenti con i vari tipi di dato
+
+3) Scrivere la query necessaria per ricevere dal DB le informazioni su tutti gli animali
+
+4) Scrivere la query necessaria per ricevere dal DB le informazioni necessarie degli animali appartenenti a Giacomo
+
+6) Scrivere la query necessaria che restituisca quali cani Labrador hanno partecipato alla gara del 23/02/2018
+
+8) Eseguire la precedenti query tramite interfaccia web, con la possibilità di selezionare un utente qualsiasi presente
+in DB e stampare, quindi, le informazioni di eventuali animali in delle tabelle
+
+9) Permettere tramite interfaccia web la possibilità di eliminare un animale presente in db
+
+ISTRUZIONI CONSEGNA
+consegnare all'interno di una cartella compressa chiamata cognome_nome_verifica:
+- la cartella del progetto contenuto in htdocs
+- il file DB.sql
+- il dump del database creato
+
+a consegna avvenuta, eliminare tutti i file e svuotare il cestino
+
+N.B. le cartelle consegnate che non rispettano queste direttive NON verranno valutate.
+Per la valutazione si seguirà la griglia di istituto in allegato.

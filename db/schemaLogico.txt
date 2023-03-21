@@ -1,0 +1,12 @@
+proprietario(codice, nome)
+animale(codice, descrizione, razza)
+appartenenza(proprietario, animale)
+
+mostra_animali(codice, indirizzo, num_animali)
+
+tempo(data)
+
+partecipazione(animale, mostra_animali, tempo)
+
+telefono_mostra(mostra, telefono)
+telefono_proprietario(proprietario, telefono)
